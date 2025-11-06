@@ -10,7 +10,7 @@
 
 <h5 align="center"><a href="https://junjue-wang.github.io/homepage/">Junjue Wang*</a>,
 <a href="https://weihaoxuan.com">Weihao Xuan*</a>,
-Heli Qi, Zhihao Liu, Kunyi Liu, Yuhan Wu, <a href="https://chrx97.com/"> Hongruixuan Chen</a>,
+Heli Qi, <a href="https://ryuzhihao123.github.io"> Zhihao Liu</a>, Kunyi Liu, Yuhan Wu, <a href="https://chrx97.com/"> Hongruixuan Chen</a>,
 <a href="https://jtrneo.github.io/"> Jian Song</a></h5>
 <h5 align="center">
 Junshi Xia, <a href="https://zhuozheng.top/">Zhuo Zheng</a>, <a href="https://naotoyokoya.com/">Naoto Yokoya†</a></h5>
